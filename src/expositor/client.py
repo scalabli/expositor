@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-shodan.client
+expositor.client
 ~~~~~~~~~~~~~
 
 This module implements the Shodan API.
