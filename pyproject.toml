@@ -51,7 +51,7 @@ dev = [
 ]
 all = [
     "requests >=2.24.0,<3.0.0",
-    "quo >=2021.5.11",
+    "quo >=2021.5.15",
     "XlsxWriter",
     "colorama"
 
