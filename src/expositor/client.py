@@ -36,7 +36,7 @@ except NameError:
     basestring = str
 
 
-class Expositor:
+class Shodan:
     """Wrapper around the Shodan REST and Streaming APIs
 
     :param key: The Shodan API key that can be obtained from your account page (https://account.shodan.io)
